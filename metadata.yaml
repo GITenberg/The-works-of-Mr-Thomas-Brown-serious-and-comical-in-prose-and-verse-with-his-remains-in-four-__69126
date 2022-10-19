@@ -1,0 +1,29 @@
+_repo: The-works-of-Mr-Thomas-Brown-serious-and-comical-in-prose-and-verse-with-his-remains-in-four-__69126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Thomas
+    birthdate: 1662
+    deathdate: 1704
+    gutenberg_agent_id: '55123'
+    url: http://www.gutenberg.org/2009/agents/55123
+    wikipedia: https://en.wikipedia.org/wiki/Tom_Brown_(satirist)
+description: ''
+gutenberg_issued: '2022-10-10'
+identifiers:
+  gutenberg: '69126'
+language: en
+pgterms:marc905: 20210505101332brown
+pgterms:marc906: '1730'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Edward Midwinter,1730.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The works of Mr. Thomas Brown, serious and comical : in prose and verse, with
+  his remains in four volumes compleat; vol. II'
+url: http://www.gutenberg.org/ebooks/69126
