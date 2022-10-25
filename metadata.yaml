@@ -1,5 +1,8 @@
 _repo: The-works-of-Mr-Thomas-Brown-serious-and-comical-in-prose-and-verse-with-his-remains-in-four-__69126
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69126-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Thomas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55123
     wikipedia: https://en.wikipedia.org/wiki/Tom_Brown_(satirist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69126#The-works-of-Mr-Thomas-Brown-serious-and-comical-in-prose-and-verse-with-his-remains-in-four-_
 gutenberg_issued: '2022-10-10'
 identifiers:
   gutenberg: '69126'
